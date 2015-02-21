@@ -6,7 +6,7 @@ public class testes {
 		Data data = new Data();
 		
 		f1.nome  = "Rodrigo";
-		f1.rg = "338.726.268-09";
+		f1.rg = "111.111.111-11";
 		f1.departamento = "Informatica";
 		
 		
@@ -21,9 +21,9 @@ public class testes {
 		//f1.recebeAumento(200);
 		
 		//f1.calculaGanhoAnual();
-		f1.dataEntrada.formatada();
+		//f1.dataEntrada.formatada();
 		
-		//f1.mostra();
+		f1.mostra();
 		
 		//System.out.println("Nome: " + f1.nome + " \nRG: " + f1.rg + "\nDepartamento: " 
 		//					+ f1.departamento + "\nSalario: " + f1.salario );
